@@ -34,7 +34,7 @@ except(IOError, ImportError):
 
 setup(
     name='riak',
-    version=get_version(),
+    version='2.7.1',
     packages=find_packages(),
     requires=requires,
     install_requires=install_requires,
