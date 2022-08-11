@@ -43,4 +43,4 @@ key_filter = RiakKeyFilter()
 """
 Set to true to allow listing operations
 """
-disable_list_exceptions = False
+disable_list_exceptions = True
